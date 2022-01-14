@@ -1,0 +1,24 @@
+body {
+    
+         
+        background-color: wheat; /* For browsers that do not support gradients */
+       
+     
+}
+
+.countdisplay {
+    margin: auto;
+    border: 1px dotted black;
+    text-align: center;
+    font-size: xx-large;
+    color:blueviolet;
+    width: 200px;
+    height: 100px;
+    align-content: center;
+    padding: 35px;
+    align-content: center;
+    background-image: linear-gradient(red, yellow);
+    padding: 180px;
+  }
+  
+   
